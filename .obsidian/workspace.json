@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "24aed8e02e0d7181",
+        "id": "24153a91588578e0",
         "type": "tabs",
         "children": [
           {
-            "id": "80eb29e754c7dfeb",
+            "id": "5b3b2264c488059d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Documents/STC_Welcome_to_Roshar_digital.pdf"
+                "file": "Surges/Transformation.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "STC_Welcome_to_Roshar_digital"
-            }
-          },
-          {
-            "id": "d9bd6463b07a8ce5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/SL001_Stormlight_Handbook_digital.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "SL001_Stormlight_Handbook_digital"
+              "icon": "lucide-file",
+              "title": "Transformation"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Surges/Transformation.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para README"
+              "title": "Links inversos para Transformation"
             }
           },
           {
@@ -124,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Surges/Transformation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para README"
+              "title": "Links de saída para Transformation"
             }
           },
           {
@@ -144,7 +133,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Etiquetas"
             }
           },
           {
@@ -167,21 +156,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/SL001_Stormlight_Handbook_digital.pdf",
+                "file": "Surges/Transformation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de SL001_Stormlight_Handbook_digital"
+              "title": "Sumário de Transformation"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,23 +184,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d9bd6463b07a8ce5",
+  "active": "5b3b2264c488059d",
   "lastOpenFiles": [
-    "Documents/STC_Welcome_to_Roshar_digital.pdf",
-    "Documents/SL001_Stormlight_Handbook_digital.pdf",
-    "Documents/Documents.md",
-    "Documents/SL010_The_First_Step_Solo_Edition_digital.pdf",
-    "Documents/Não confirmado 621692.crdownload",
-    "Documents/Cosmere_RPG_SL_Character_Sheet.pdf",
-    "Personagens/Personagens.base",
-    "Documents/Ishiva.pdf",
-    "Personagens/Ishiva.md",
     "README.md",
+    "Surges/Transformation.md",
+    "Item/Minha Arma.md",
+    "Documents/SL001_Stormlight_Handbook_digital.pdf",
+    "Documents/STC_Welcome_to_Roshar_digital.pdf",
+    "Documents/SL010_The_First_Step_Solo_Edition_digital.pdf",
+    "Personagens/Personagens.base",
+    "Paths/Paths.md",
+    "Item/Item.base",
+    "Sem título.md",
+    "Surges",
+    "Documents/Cosmere_RPG_SL_Character_Sheet.pdf",
+    "Personagens/Ishiva.md",
+    "Paths/First Ideal.md",
+    "Documents/Ishiva.pdf",
+    "S",
+    "Paths/Elsecaller.md",
+    "Rules/Damage.md",
+    "Rules/Activations.md",
+    "Sem título.canvas",
+    "Item/Item.md",
+    "Item",
+    "Paths/Scholar.md",
+    "Paths/Prized Acquisition.md",
+    "Paths/Erudition.md",
+    "Paths/Artifabrian.md",
+    "Documents/Documents.md",
+    "info.md",
     "Excalidraw/Drawing 2026-02-14 23.14.57.excalidraw.md",
     "Excalidraw/Drawing 2026-02-14 23.13.38.excalidraw.md",
-    "Excalidraw",
-    "Documents/Cosmere_RPG_SL_Character_Sheet - Copia.pdf",
-    "Documents/Não confirmado 981385.crdownload",
     "Bem-vindo.md"
   ]
 }

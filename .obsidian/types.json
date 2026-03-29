@@ -1,0 +1,17 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "level": "number",
+    "Paths": "multitext",
+    "strength": "number",
+    "speed": "number",
+    "intellect": "number",
+    "willpower": "number",
+    "awareness": "number",
+    "presence": "number",
+    "talents": "multitext",
+    "prerequisite": "multitext"
+  }
+}

@@ -7,5 +7,6 @@ views:
     order:
       - file.name
       - tags
+      - level
     columnSize:
       file.name: 195
