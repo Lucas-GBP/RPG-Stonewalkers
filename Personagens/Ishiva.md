@@ -21,3 +21,5 @@ presence: 3
 
 ## [[Ishiva.pdf|Ficha de Personagem]]
 
+## Itens
+### [[Minha Arma]]
