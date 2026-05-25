@@ -2,7 +2,7 @@
 tags:
   - personagem
   - player
-level: 2
+level: 3
 ancestry: Human
 paths:
   - "[[Artifabrian]]"
@@ -12,7 +12,7 @@ talents:
   - "[[Prized Acquisition]]"
   - "[[First Ideal]]"
 strength: 0
-speed: 0
+speed: 1
 intellect: 3
 willpower: 3
 awareness: 3
