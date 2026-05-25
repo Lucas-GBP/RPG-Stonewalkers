@@ -10,17 +10,7 @@
 ---
 
 >[!read]
->Pacotes antes tão estimados estão espalhados pelo chão, seus conteúdos derramados pela terra.
->
->Uma das mercadoras, uma mulher thaylen, está deitada de lado, tossindo sangue sobre seu vestido laranja vivo.
->
->— **Ajude-me...** — ela diz desesperadamente, com sangue escorrendo pelo canto da boca.
->
->Glóbulos violetas de medosprens se contorcem ao redor dela e da flecha cravada em suas costas.
->
->Antes que você possa agir, uma voz grita do alto da crista:
->
->— **Arqueiros, preparar!**
+>Pacotes antes tão estimados estão espalhados pelo chão, seus conteúdos derramados pela terra. Uma das mercadoras, uma mulher thaylen, está deitada de lado, tossindo sangue sobre seu vestido laranja vivo. **"Ajude-me..."** ela diz desesperadamente, com sangue escorrendo pelo canto da boca. Glóbulos violetas de medosprens se contorcem ao redor dela e da flecha cravada em suas costas. Antes que você possa agir, uma voz grita do alto da crista: **"Arqueiros, preparar!"**
 
 ## Você...
 
