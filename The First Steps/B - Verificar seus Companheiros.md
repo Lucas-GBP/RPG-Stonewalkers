@@ -4,7 +4,7 @@
 ## Você reconhece as cores nas flechas?
 
 1. Sim. ==**Especialização:** Alethi==  
-   Essas são as cores do Alto-príncipe Thanadal. Thanadal é rival do Nobre-senhor Adolin, dono da sua caravana.
+   Essas são as cores do grão-príncipe [[Thanadal]]. Thanadal é rival do Nobre-senhor Adolin, dono da sua caravana.
 2. Não. ==**Especialização:** Outra cultura, veja [[Apêndice C]]==
 
 ---
