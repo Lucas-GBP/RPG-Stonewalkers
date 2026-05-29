@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"fe97d8056e80b016","type":"file","file":"The First Steps/Parte 1 - Emboscada Alethi.md","x":-280,"y":-480,"width":400,"height":400},
+		{"id":"571c361ecf6eba3b","type":"file","file":"The First Steps/Parte 1 - Escolha.md","x":-280,"y":80,"width":400,"height":400},
+		{"id":"7de8a77b1e7bfdd2","type":"file","file":"The First Steps/C - Entrando em Batalha.md","x":0,"y":760,"width":400,"height":400},
+		{"id":"d4671d179a76d9c8","type":"file","file":"The First Steps/B - Verificar seus Companheiros.md","x":-560,"y":760,"width":400,"height":400},
+		{"id":"17102eaf9724731e","type":"file","file":"The First Steps/A - Procurando Ferramentas.md","x":-1120,"y":760,"width":400,"height":400},
+		{"id":"0486314117cf1e6d","type":"file","file":"The First Steps/D - Achando a Luminumbre Ralanat.md","x":560,"y":760,"width":400,"height":400},
+		{"id":"cad84ea5d8a3501a","type":"file","file":"The First Steps/A1.md","x":-3040,"y":1440,"width":400,"height":400},
+		{"id":"e04341ff9ac919f5","type":"file","file":"The First Steps/A2.md","x":-2560,"y":1440,"width":400,"height":400},
+		{"id":"6d25ec52e881c44b","type":"file","file":"The First Steps/A3.md","x":-2080,"y":1440,"width":400,"height":400},
+		{"id":"7c236c17bab3f450","type":"file","file":"The First Steps/A5.md","x":-1600,"y":1440,"width":400,"height":400},
+		{"id":"b728f835e6d44434","type":"file","file":"The First Steps/A6.md","x":-1120,"y":1440,"width":400,"height":400},
+		{"id":"fe90bb9f9be45dc3","x":-280,"y":2720,"width":400,"height":400,"type":"file","file":"The First Steps/Parte 2.md"}
+	],
+	"edges":[
+		{"id":"8f7494a856a3c849","fromNode":"fe97d8056e80b016","fromSide":"bottom","toNode":"571c361ecf6eba3b","toSide":"top"},
+		{"id":"f80e9c0cead35cb2","fromNode":"571c361ecf6eba3b","fromSide":"bottom","toNode":"17102eaf9724731e","toSide":"top"},
+		{"id":"8f4f8abbd567aa1a","fromNode":"571c361ecf6eba3b","fromSide":"bottom","toNode":"d4671d179a76d9c8","toSide":"top"},
+		{"id":"1284e21747261cda","fromNode":"571c361ecf6eba3b","fromSide":"bottom","toNode":"7de8a77b1e7bfdd2","toSide":"top"},
+		{"id":"aba5a29bc6c9ff28","fromNode":"571c361ecf6eba3b","fromSide":"bottom","toNode":"0486314117cf1e6d","toSide":"top"},
+		{"id":"f07b0a6889303db2","fromNode":"cad84ea5d8a3501a","fromSide":"bottom","toNode":"fe90bb9f9be45dc3","toSide":"top"},
+		{"id":"2524669259edf1c5","fromNode":"e04341ff9ac919f5","fromSide":"bottom","toNode":"fe90bb9f9be45dc3","toSide":"top"},
+		{"id":"c5f0e24539826769","fromNode":"6d25ec52e881c44b","fromSide":"bottom","toNode":"fe90bb9f9be45dc3","toSide":"top"},
+		{"id":"6e7704bcf0749ecf","fromNode":"7c236c17bab3f450","fromSide":"bottom","toNode":"fe90bb9f9be45dc3","toSide":"top"},
+		{"id":"8ab18edff6c341cd","fromNode":"b728f835e6d44434","fromSide":"bottom","toNode":"fe90bb9f9be45dc3","toSide":"top"},
+		{"id":"edc0550428627a4e","fromNode":"17102eaf9724731e","fromSide":"bottom","toNode":"cad84ea5d8a3501a","toSide":"top"},
+		{"id":"6e66afef49c8ac4d","fromNode":"17102eaf9724731e","fromSide":"bottom","toNode":"e04341ff9ac919f5","toSide":"top"},
+		{"id":"dbb3bbbf0af17b51","fromNode":"17102eaf9724731e","fromSide":"bottom","toNode":"6d25ec52e881c44b","toSide":"top"},
+		{"id":"73347dde62b03dd5","fromNode":"17102eaf9724731e","fromSide":"bottom","toNode":"7c236c17bab3f450","toSide":"top"},
+		{"id":"ad16c3a3fa9b6c55","fromNode":"17102eaf9724731e","fromSide":"bottom","toNode":"b728f835e6d44434","toSide":"top"}
+	]
+}
