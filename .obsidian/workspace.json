@@ -11,26 +11,14 @@
             "id": "79051730f83df5d1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "The First Steps/Parte 2.md",
-                "mode": "source",
-                "source": false
+                "aFile": "The First Steps/A1.md",
+                "bFile": "The First Steps/A1.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Parte 2"
-            }
-          },
-          {
-            "id": "844a41e6aa787577",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/SL010_The_First_Step_Solo_Edition_digital.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "SL010_The_First_Step_Solo_Edition_digital"
+              "icon": "diff",
+              "title": "Diff: A1  (Working Tree)"
             }
           }
         ]
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The First Steps/Parte 2.md",
+                "file": "Documents/SL010_The_First_Step_Solo_Edition_digital.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Parte 2"
+              "title": "Links inversos para SL010_The_First_Step_Solo_Edition_digital"
             }
           },
           {
@@ -207,11 +195,17 @@
   },
   "active": "79051730f83df5d1",
   "lastOpenFiles": [
+    "README.md",
+    "The First Steps/Parte 3 - O Estranho.md",
     "Documents/SL010_The_First_Step_Solo_Edition_digital.pdf",
-    "The First Steps/Parte 2.md",
+    "The First Steps/E - Lutando pela Sobrevivência.md",
+    "The First Steps/Parte 2 - Uma Noite na Ravina.md",
+    "The First Steps/E4.md",
+    "The First Steps/E3.md",
+    "The First Steps/E2.md",
+    "The First Steps/E1.md",
     "The First Steps/The First Steps.md",
     "The First Steps/Parte 1 - Emboscada Alethi.md",
-    "README.md",
     "The First Steps/Parte 1 - Escolha.md",
     "The First Steps/D.md",
     "The First Steps/D3.md",
@@ -227,13 +221,7 @@
     "The First Steps/B - Verificar seus Companheiros.md",
     "The First Steps/B3.md",
     "The First Steps/B1.md",
-    "The First Steps/Apêndice C.md",
-    "The First Steps/A - Procurando Ferramentas.md",
-    "2026-05-25.md",
     "Sem título.canvas",
-    "The First Steps/A6.md",
-    "The First Steps/A5.md",
-    "The First Steps/A3.md",
     "The First Steps",
     "Paths/Ordem de Leitura Cosmere.canvas",
     "Sem título.base",
