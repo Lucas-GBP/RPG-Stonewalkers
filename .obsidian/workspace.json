@@ -1,24 +1,27 @@
 {
   "main": {
-    "id": "22a5184ca67e3202",
+    "id": "8b7e13df0f5ef80c",
     "type": "split",
     "children": [
       {
-        "id": "8d41218f7c5c1d1d",
+        "id": "367b9a5fcd86e259",
         "type": "tabs",
         "children": [
           {
-            "id": "68ac4c5ec41e691e",
+            "id": "3782f929b82ff519",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "canvas",
               "state": {
-                "aFile": "The First Steps/A1.md",
-                "bFile": "The First Steps/A1.md",
-                "aRef": ""
+                "file": "The First Steps/The First Steps.canvas",
+                "viewState": {
+                  "x": -720,
+                  "y": 4360,
+                  "zoom": -3.5829615364047056
+                }
               },
-              "icon": "diff",
-              "title": "Diff: A1  (Working Tree)"
+              "icon": "lucide-layout-dashboard",
+              "title": "The First Steps"
             }
           }
         ]
@@ -27,15 +30,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a3797298ff9d5244",
+    "id": "4d650f89882d0422",
     "type": "split",
     "children": [
       {
-        "id": "cba686084cf2b004",
+        "id": "b32ebb83fd486f83",
         "type": "tabs",
         "children": [
           {
-            "id": "594f3a83f74ad641",
+            "id": "3e98d49b3b840889",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +51,7 @@
             }
           },
           {
-            "id": "dc1ba3772dde4c5f",
+            "id": "11d9088899295a6a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +68,7 @@
             }
           },
           {
-            "id": "115ce5ae51b1a219",
+            "id": "3b6b7ce6abc6c01e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,24 +84,20 @@
     "width": 300
   },
   "right": {
-    "id": "c49996e0ce72020d",
+    "id": "6f4bdb8cf32a46e0",
     "type": "split",
     "children": [
       {
-        "id": "1853303638f30849",
+        "id": "c274708e5a5ffabf",
         "type": "tabs",
         "children": [
           {
-            "id": "c785691da88f42d3",
+            "id": "7888f0b584b4b920",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Documents/SL010_The_First_Step_Solo_Edition_digital.pdf",
-=======
-                "file": "conflict-files-obsidian-git.md",
->>>>>>> b4f859c39e8eca4d8548662a5bf9c73c2afbe9dc
+                "file": "The First Steps/The First Steps.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,28 +107,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-<<<<<<< HEAD
-              "title": "Links inversos para SL010_The_First_Step_Solo_Edition_digital"
-=======
-              "title": "Links inversos para conflict-files-obsidian-git"
->>>>>>> b4f859c39e8eca4d8548662a5bf9c73c2afbe9dc
+              "title": "Links inversos para The First Steps"
             }
           },
           {
-            "id": "baeb480a3f6858dc",
+            "id": "e3517a69d5b6b133",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Documents/SL010_The_First_Step_Solo_Edition_digital.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída"
+              "title": "Links de saída para SL010_The_First_Step_Solo_Edition_digital"
             }
           },
           {
-            "id": "72a9ec73ac89c205",
+            "id": "f08f2e6f91864b92",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -144,7 +140,7 @@
             }
           },
           {
-            "id": "93936ab52c5980d1",
+            "id": "e02c17c8e4a34fcd",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -158,21 +154,22 @@
             }
           },
           {
-            "id": "a971640edd9e7ced",
+            "id": "c2e034dc6a9bc04d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Documents/SL010_The_First_Step_Solo_Edition_digital.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de SL010_The_First_Step_Solo_Edition_digital"
             }
           },
           {
-            "id": "5f2f6d97b2ccc4ce",
+            "id": "64be1e0f1217e591",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -201,57 +198,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "68ac4c5ec41e691e",
+  "active": "3782f929b82ff519",
   "lastOpenFiles": [
-    "README.md",
-    "The First Steps/Parte 3 - O Estranho.md",
+    "Documents/Cosmere_RPG_SL_Character_Sheet.pdf",
     "Documents/SL010_The_First_Step_Solo_Edition_digital.pdf",
-<<<<<<< HEAD
-    "The First Steps/E - Lutando pela Sobrevivência.md",
-    "The First Steps/Parte 2 - Uma Noite na Ravina.md",
-    "The First Steps/E4.md",
-    "The First Steps/E3.md",
-    "The First Steps/E2.md",
-    "The First Steps/E1.md",
-    "The First Steps/The First Steps.md",
-    "The First Steps/Parte 1 - Emboscada Alethi.md",
-=======
-    "The First Steps/The First Steps.canvas",
-    "The First Steps/A1.md",
-    "The First Steps/Parte 2.md",
-    "The First Steps/Parte 1 - Emboscada Alethi.md",
-    "The First Steps/The First Steps.md",
->>>>>>> b4f859c39e8eca4d8548662a5bf9c73c2afbe9dc
-    "The First Steps/Parte 1 - Escolha.md",
-    "Localidades/Alethkar.md",
-    "Personagens/Thanadal.md",
-    "Localidades",
-    "The First Steps/B - Verificar seus Companheiros.md",
-<<<<<<< HEAD
-    "The First Steps/B3.md",
-    "The First Steps/B1.md",
-    "Sem título.canvas",
-=======
-    "Item/Spanreed.md",
-    "Item/Minha Arma.md",
-    "Item/Lança curta.md",
-    "Item/Espada lateral.md",
-    "Item/Arco curto.md",
-    "Item/Adaga.md",
-    "Surges/Transformation.md",
-    "Personagens/Ishiva.md",
-    "The First Steps/D4.md",
-    "The First Steps/D3.md",
-    "The First Steps/D - Achando a Luminumbre Ralanat.md",
-    "The First Steps/D2.md",
-    "The First Steps/C1.md",
-    "The First Steps/D1.md",
-    "The First Steps/C3.md",
-    "The First Steps/C2.md",
-    "The First Steps/C - Entrando em Batalha.md",
->>>>>>> b4f859c39e8eca4d8548662a5bf9c73c2afbe9dc
-    "The First Steps",
+    "The First Steps/Combate.md",
+    "Documents/Ishiva.pdf",
+    "Paths/Paths.md",
+    "Paths/Elsecaller.md",
+    "Paths/Prized Acquisition.md",
     "Paths/Ordem de Leitura Cosmere.canvas",
-    "The First Step"
+    "The First Steps/The First Steps.canvas",
+    "The First Steps/F6.md",
+    "The First Steps/F5.md",
+    "The First Steps/F4.md",
+    "The First Steps/F3.md",
+    "The First Steps/F2.md",
+    "The First Steps/F1.md",
+    "The First Steps/F.md",
+    "Documents/SL001_Stormlight_Handbook_digital.pdf",
+    "The First Steps/B - Verificar seus Companheiros.md",
+    "The First Steps/B1.md",
+    "The First Steps/B3.md",
+    "The First Steps/Parte 2 - Uma Noite na Ravina.md"
   ]
 }
