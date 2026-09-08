@@ -1,6 +1,7 @@
 ---
 tags:
   - surge
+reference: "[[SL001_Stormlight_Handbook_digital.pdf#page=238&selection=0,0,0,14|SL001_Stormlight_Handbook_digital, página 238]]"
 ---
 ## Physics
 As equações seguintes possuem a seguinte convenção: A transformação ocorre entre os materiais $a\Rightarrow b$, e podem ter consequências entre os períodos de tempo $o\Rightarrow f$.

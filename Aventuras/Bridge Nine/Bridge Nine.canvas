@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"id":"grp_adventure","type":"group","x":0,"y":0,"width":1200,"height":6900,"color":"6","label":"Bridge Nine — Aventura"},
+		{"id":"grp_support","type":"group","x":1500,"y":0,"width":800,"height":2600,"color":"4","label":"Apoio ao MJ"},
+		{"id":"index","type":"file","file":"Aventuras/Bridge Nine/Bridge Nine.md","x":350,"y":100,"width":500,"height":300},
+		{"id":"prologue","type":"file","file":"Aventuras/Bridge Nine/Prólogo - A Expedição.md","x":350,"y":600,"width":500,"height":300},
+		{"id":"attack","type":"file","file":"Aventuras/Bridge Nine/A Jornada e o Ataque.md","x":350,"y":1100,"width":500,"height":300},
+		{"id":"survivors","type":"file","file":"Aventuras/Bridge Nine/Sobreviventes.md","x":350,"y":1600,"width":500,"height":300},
+		{"id":"pieces","type":"file","file":"Aventuras/Bridge Nine/Juntando os Pedaços.md","x":350,"y":2100,"width":500,"height":300},
+		{"id":"alone","type":"file","file":"Aventuras/Bridge Nine/Por Conta Própria.md","x":350,"y":2600,"width":500,"height":300},
+		{"id":"pursuit","type":"file","file":"Aventuras/Bridge Nine/Perseguição do Demônio-do-Abismo.md","x":350,"y":3100,"width":500,"height":300},
+		{"id":"rest","type":"file","file":"Aventuras/Bridge Nine/Descanso Noturno.md","x":350,"y":3600,"width":500,"height":300},
+		{"id":"ruins","type":"file","file":"Aventuras/Bridge Nine/Até as Ruínas.md","x":350,"y":4100,"width":500,"height":300},
+		{"id":"shrine","type":"file","file":"Aventuras/Bridge Nine/O Santuário Perdido.md","x":350,"y":4600,"width":500,"height":300},
+		{"id":"glyphs","type":"file","file":"Aventuras/Bridge Nine/Decifrando os Glifos.md","x":350,"y":5100,"width":500,"height":300},
+		{"id":"surface","type":"file","file":"Aventuras/Bridge Nine/A Superfície.md","x":350,"y":5600,"width":500,"height":300},
+		{"id":"home","type":"file","file":"Aventuras/Bridge Nine/O Caminho para Casa.md","x":350,"y":6100,"width":500,"height":300},
+		{"id":"maps","type":"file","file":"Aventuras/Bridge Nine/Mapas.md","x":1650,"y":150,"width":500,"height":300},
+		{"id":"adversaries","type":"file","file":"Aventuras/Bridge Nine/Apêndice A - Adversários.md","x":1650,"y":600,"width":500,"height":300},
+		{"id":"spren","type":"file","file":"Aventuras/Bridge Nine/Apêndice B - Spren PNJs.md","x":1650,"y":1050,"width":500,"height":300},
+		{"id":"characters","type":"file","file":"Aventuras/Bridge Nine/Apêndice C - Personagens Prontos.md","x":1650,"y":1500,"width":500,"height":300},
+		{"id":"reference","type":"file","file":"Aventuras/Bridge Nine/Apêndice D - Referência Rápida.md","x":1650,"y":1950,"width":500,"height":300}
+	],
+	"edges":[
+		{"id":"e01","fromNode":"index","fromSide":"bottom","toNode":"prologue","toSide":"top"},
+		{"id":"e02","fromNode":"prologue","fromSide":"bottom","toNode":"attack","toSide":"top"},
+		{"id":"e03","fromNode":"attack","fromSide":"bottom","toNode":"survivors","toSide":"top"},
+		{"id":"e04","fromNode":"survivors","fromSide":"bottom","toNode":"pieces","toSide":"top"},
+		{"id":"e05","fromNode":"pieces","fromSide":"bottom","toNode":"alone","toSide":"top"},
+		{"id":"e06","fromNode":"alone","fromSide":"bottom","toNode":"pursuit","toSide":"top"},
+		{"id":"e07","fromNode":"pursuit","fromSide":"bottom","toNode":"rest","toSide":"top"},
+		{"id":"e08","fromNode":"rest","fromSide":"bottom","toNode":"ruins","toSide":"top"},
+		{"id":"e09","fromNode":"ruins","fromSide":"bottom","toNode":"shrine","toSide":"top"},
+		{"id":"e10","fromNode":"shrine","fromSide":"bottom","toNode":"glyphs","toSide":"top"},
+		{"id":"e11","fromNode":"glyphs","fromSide":"bottom","toNode":"surface","toSide":"top"},
+		{"id":"e12","fromNode":"surface","fromSide":"bottom","toNode":"home","toSide":"top"},
+		{"id":"e13","fromNode":"index","fromSide":"right","toNode":"maps","toSide":"left"},
+		{"id":"e14","fromNode":"index","fromSide":"right","toNode":"adversaries","toSide":"left"},
+		{"id":"e15","fromNode":"index","fromSide":"right","toNode":"spren","toSide":"left"},
+		{"id":"e16","fromNode":"index","fromSide":"right","toNode":"characters","toSide":"left"},
+		{"id":"e17","fromNode":"index","fromSide":"right","toNode":"reference","toSide":"left"}
+	]
+}
