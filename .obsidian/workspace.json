@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "367b9a5fcd86e259",
+        "id": "c103b7b4d575d362",
         "type": "tabs",
         "children": [
           {
-            "id": "3782f929b82ff519",
+            "id": "03f23ca94fbf6f11",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -18,8 +18,47 @@
               "icon": "lucide-file-text",
               "title": "SL001_Stormlight_Handbook_digital"
             }
+          },
+          {
+            "id": "a58f65d1f5d60772",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/SL001_Stormlight_Handbook_digital.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "SL001_Stormlight_Handbook_digital"
+            }
+          },
+          {
+            "id": "210a7cc986779928",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/SL001_Stormlight_Handbook_digital.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "SL001_Stormlight_Handbook_digital"
+            }
+          },
+          {
+            "id": "59e11cf8709250c6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Personagens/Ishiva.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ishiva"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,48 +230,58 @@
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3782f929b82ff519",
+  "active": "a58f65d1f5d60772",
   "lastOpenFiles": [
-    "Documents/Ishiva.pdf",
+    "Talents/Mind and Body.md",
+    "Documents/SL001_Stormlight_Handbook_digital.pdf",
     "Personagens/Ishiva.md",
+    "Talents/Living Soulcast.md",
+    "Rules/Activations/2 Actions.md",
+    "Talents/Realmic Evasion.md",
     "Personagens/Personagens.base",
-    "README.md",
-    "Aventuras/Bridge Nine/Bridge Nine.md",
-    "Documents/SL007_Bridge_Nine_digital.pdf",
+    "Documents/Documents.md",
+    "Surges/Transformation.md",
+    "Talents/Second Ideal (Elsecaller).md",
+    "Talents/Future Sight (Enlightened Key).md",
+    "Surges/Transportation.md",
+    "Talents/First Ideal (Elsecaller Key).md",
+    "Item/Cultivator.md",
+    "Item/Tormenta.md",
+    "Item/Item.base",
+    "Item/upgrades and drawbacks",
+    "Item/spanreed.md",
+    "Item/Lança curta.md",
+    "Item/Espada lateral.md",
+    "Item/Arco curto.md",
+    "Item/Adaga.md",
+    "Talents/Erudition key talent.md",
+    "Documents/Ishiva.pdf",
+    "Talents/Inventive Design.md",
+    "Rules/Activations/Activations.md",
+    "Paths/Artifabrian.md",
+    "Talents/Prized Acquisition.md",
+    "Personagens/Thanadal.md",
+    "Talents/First Ideal.md",
+    "Talents",
+    "Sessões",
+    "Documents/Não confirmado 997746.crdownload",
+    "Rules/Activations",
+    "Documents/SL003_Stonewalkers_adventure_digital.pdf",
+    "Documents/SL005_Stormlight_Scenarios__v1.02_/Stormlight Scenarios Tokens and Art/STC Stormlight Scenarios Hog Sadeas.png",
+    "Documents/SL005_Stormlight_Scenarios__v1.02_/Stormlight Scenarios Tokens and Art/STC Stormlight Scenarios Farm.png",
+    "Documents/SL005_Stormlight_Scenarios__v1.02_/Stormlight Scenarios Tokens and Art/STC Stormlight Scenarios Deepest One Attack.png",
+    "Documents/Anotados/Bridge Nine/Imagens Isoladas - Bridge Nine/2 - Chasmfiend.png",
+    "Documents/Anotados/Bridge Nine/Imagens Isoladas - Bridge Nine/2.1 cap Selinar.png",
+    "Documents/Anotados/Bridge Nine/Imagens Isoladas - Bridge Nine/2.2 Eliah Matal.png",
+    "Documents/Anotados/Bridge Nine/Imagens Isoladas - Bridge Nine/3 mapa destrocos.png",
+    "Documents/Anotados/Bridge Nine/Imagens Isoladas - Bridge Nine/4 - Ataque chasmfiend.png",
+    "Documents/SL008_Advanced_Adversaries__v1.02_/Advanced Adversaries Tokens and Art/Jasnah-vs-Magnified-One.png",
+    "Documents/SL008_Advanced_Adversaries__v1.02_/Advanced Adversaries Tokens and Art/Fused-Husked-One.png",
     "Aventuras/The First Steps/The First Steps.canvas",
     "Aventuras/Bridge Nine/Bridge Nine.canvas",
-    "Aventuras/Bridge Nine/Apêndice D - Referência Rápida.md",
-    "Aventuras/Bridge Nine/Apêndice C - Personagens Prontos.md",
-    "Aventuras/Bridge Nine/Apêndice B - Spren PNJs.md",
-    "Aventuras/Bridge Nine/Apêndice A - Adversários.md",
-    "Aventuras/Bridge Nine/Mapas.md",
-    "Aventuras/Bridge Nine/O Caminho para Casa.md",
-    "Aventuras/Bridge Nine/A Superfície.md",
-    "Aventuras/Bridge Nine/Decifrando os Glifos.md",
-    "Aventuras/Bridge Nine/O Santuário Perdido.md",
-    "Aventuras/Bridge Nine/Até as Ruínas.md",
-    "Aventuras/Bridge Nine/Descanso Noturno.md",
-    "Aventuras/Bridge Nine/Perseguição do Demônio-do-Abismo.md",
-    "Aventuras/Bridge Nine/Por Conta Própria.md",
-    "Aventuras/Bridge Nine/Juntando os Pedaços.md",
-    "Aventuras/Bridge Nine/Sobreviventes.md",
-    "Aventuras/Bridge Nine/A Jornada e o Ataque.md",
-    "Aventuras/Bridge Nine/Prólogo - A Expedição.md",
-    "Aventuras/Bridge Nine",
-    "Documents/Documents.md",
-    "Documents/SL010_The_First_Step_Solo_Edition_digital.pdf",
-    "Documents/SL001_Stormlight_Handbook_digital.pdf",
-    "Documents/Cosmere_RPG_SL_Character_Sheet.pdf",
-    "Documents/STC_Welcome_to_Roshar_digital.pdf",
-    "Aventuras",
-    "Aventuras/The First Steps/Combate.md",
-    "Paths/Paths.md",
-    "Paths/Elsecaller.md",
-    "Paths/Prized Acquisition.md",
     "Paths/Ordem de Leitura Cosmere.canvas"
   ]
 }

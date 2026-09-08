@@ -15,12 +15,12 @@ Cada personagem faz um teste para obter comida ou água. Com fonte de luz, pode 
 
 ## Passando a noite
 
-| Recursos | Resultado ao despertar |
-|---|---|
+| Recursos            | Resultado ao despertar                                       |
+| ------------------- | ------------------------------------------------------------ |
 | Água limpa e comida | Sem exaustão; descanso longo, restaurando toda Saúde e Foco. |
-| Água suja | **Exausto [−1]**. |
-| Sem água | **Exausto [−2]**. |
-| Sem comida | Apenas descanso curto: uma rolagem de dado de recuperação. |
+| Água suja           | **Exausto [−1]**.                                            |
+| Sem água            | **Exausto [−2]**.                                            |
+| Sem comida          | Apenas descanso curto: uma rolagem de dado de recuperação.   |
 
 A caverna é um nicho natural, comporta dez pessoas e não esconde perigos.
 

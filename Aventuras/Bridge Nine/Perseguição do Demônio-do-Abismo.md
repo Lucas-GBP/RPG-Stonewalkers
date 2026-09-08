@@ -25,14 +25,14 @@ Se PNJs estiverem vivos, um deles foge aterrorizado e os demais o seguem. O cami
 
 Conduza um **endevor: 6 sucessos antes de 4 falhas**. Cada personagem faz um teste por rodada; todos agem antes de uma nova rodada.
 
-| Abordagem | Teste |
-|---|---|
-| Correr a toda velocidade pelo centro | Agilidade CD 10 |
-| Carregar ou apoiar um ferido | Atletismo CD 15 |
+| Abordagem                                   | Teste                                                  |
+| ------------------------------------------- | ------------------------------------------------------ |
+| Correr a toda velocidade pelo centro        | Agilidade CD 10                                        |
+| Carregar ou apoiar um ferido                | Atletismo CD 15                                        |
 | Esconder-se sob uma saliência enquanto foge | Furtividade CD 10; bom momento para aumentar os riscos |
-| Encontrar um atalho seguro | Dedução ou Percepção CD 15 |
-| Distrair a criatura | Enganação ou Sobrevivência CD 15; aumente os riscos |
-| Ficar na retaguarda e inspirar os demais | Disciplina ou Liderança CD 10 |
+| Encontrar um atalho seguro                  | Dedução ou Percepção CD 15                             |
+| Distrair a criatura                         | Enganação ou Sobrevivência CD 15; aumente os riscos    |
+| Ficar na retaguarda e inspirar os demais    | Disciplina ou Liderança CD 10                          |
 
 Na primeira falha:
 

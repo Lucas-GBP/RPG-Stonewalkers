@@ -12,6 +12,7 @@
     "awareness": "number",
     "presence": "number",
     "talents": "multitext",
-    "prerequisite": "multitext"
+    "prerequisite": "multitext",
+    "data": "date"
   }
 }

@@ -8,7 +8,7 @@ paths:
   - "[[Artifabrian]]"
   - "[[Elsecaller]]"
 talents:
-  - "[[Erudition]]"
+  - "[[Erudition key talent]]"
   - "[[Prized Acquisition]]"
   - "[[First Ideal]]"
 strength: 0
@@ -20,6 +20,27 @@ presence: 3
 ---
 
 ## [[Ishiva.pdf|Ficha de Personagem]]
-
+## Talento
+### [[Erudition key talent]]
+### [[Prized Acquisition]]
+### [[First Ideal (Elsecaller Key)]]
+### [[Inventive Design]]
+### [[Second Ideal (Elsecaller)]]
+### [[Future Sight (Enlightened Key)]]
+### [[Realmic Evasion]]
+### [[Mind and Body]]
+### [[Living Soulcast]]
 ## Itens
-### [[Minha Arma]]
+### [[Tormenta]]
+- (Upgrade)
+- (Upgrade)
+- (Downgrade)
+### [[Cultivator]]
+- (Upgrade): You can grow the plants up to Large (10-foot) size.
+- (Upgrade):
+- (Upgrade)
+### Chain Armor
+- 
+## Surges
+### [[Transformation]]
+### [[Transportation]]
