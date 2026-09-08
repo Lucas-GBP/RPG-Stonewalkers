@@ -11,14 +11,12 @@
             "id": "3782f929b82ff519",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "Documents/SL001_Stormlight_Handbook_digital.pdf"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-file-text",
+              "title": "SL001_Stormlight_Handbook_digital"
             }
           }
         ]
@@ -41,7 +39,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -197,30 +197,42 @@
   },
   "active": "3782f929b82ff519",
   "lastOpenFiles": [
+    "Documents/Ishiva.pdf",
+    "Personagens/Ishiva.md",
+    "Personagens/Personagens.base",
+    "README.md",
+    "Aventuras/Bridge Nine/Bridge Nine.md",
+    "Documents/SL007_Bridge_Nine_digital.pdf",
+    "Aventuras/The First Steps/The First Steps.canvas",
+    "Aventuras/Bridge Nine/Bridge Nine.canvas",
+    "Aventuras/Bridge Nine/Apêndice D - Referência Rápida.md",
+    "Aventuras/Bridge Nine/Apêndice C - Personagens Prontos.md",
+    "Aventuras/Bridge Nine/Apêndice B - Spren PNJs.md",
+    "Aventuras/Bridge Nine/Apêndice A - Adversários.md",
+    "Aventuras/Bridge Nine/Mapas.md",
+    "Aventuras/Bridge Nine/O Caminho para Casa.md",
+    "Aventuras/Bridge Nine/A Superfície.md",
+    "Aventuras/Bridge Nine/Decifrando os Glifos.md",
+    "Aventuras/Bridge Nine/O Santuário Perdido.md",
+    "Aventuras/Bridge Nine/Até as Ruínas.md",
+    "Aventuras/Bridge Nine/Descanso Noturno.md",
+    "Aventuras/Bridge Nine/Perseguição do Demônio-do-Abismo.md",
+    "Aventuras/Bridge Nine/Por Conta Própria.md",
+    "Aventuras/Bridge Nine/Juntando os Pedaços.md",
+    "Aventuras/Bridge Nine/Sobreviventes.md",
+    "Aventuras/Bridge Nine/A Jornada e o Ataque.md",
+    "Aventuras/Bridge Nine/Prólogo - A Expedição.md",
+    "Aventuras/Bridge Nine",
+    "Documents/Documents.md",
     "Documents/SL010_The_First_Step_Solo_Edition_digital.pdf",
     "Documents/SL001_Stormlight_Handbook_digital.pdf",
-    "Documents/Ishiva.pdf",
     "Documents/Cosmere_RPG_SL_Character_Sheet.pdf",
-    "Documents/Documents.md",
-    "Aventuras/The First Steps/The First Steps.canvas",
-    "README.md",
     "Documents/STC_Welcome_to_Roshar_digital.pdf",
     "Aventuras",
     "Aventuras/The First Steps/Combate.md",
     "Paths/Paths.md",
     "Paths/Elsecaller.md",
     "Paths/Prized Acquisition.md",
-    "Paths/Ordem de Leitura Cosmere.canvas",
-    "Aventuras/The First Steps/F6.md",
-    "Aventuras/The First Steps/F5.md",
-    "Aventuras/The First Steps/F4.md",
-    "Aventuras/The First Steps/F3.md",
-    "Aventuras/The First Steps/F2.md",
-    "Aventuras/The First Steps/F1.md",
-    "Aventuras/The First Steps/F.md",
-    "Aventuras/The First Steps/B - Verificar seus Companheiros.md",
-    "Aventuras/The First Steps/B1.md",
-    "Aventuras/The First Steps/B3.md",
-    "Aventuras/The First Steps/Parte 2 - Uma Noite na Ravina.md"
+    "Paths/Ordem de Leitura Cosmere.canvas"
   ]
 }

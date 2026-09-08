@@ -5,3 +5,7 @@
 !.obsidian/*.json
 
 Documents/**/*.pdf
+Documents/**/*.jpg
+Documents/**/*.png
+Documents/**/*.rar
+Documents/**/*.zip
