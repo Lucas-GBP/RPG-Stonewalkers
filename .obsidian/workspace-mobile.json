@@ -4,21 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "fec1afa65f39e8b3",
+        "id": "cc9d1dcda9d0eaf9",
         "type": "tabs",
         "children": [
           {
-            "id": "d52966f3a09625d7",
+            "id": "df0f15ca87c70fe9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "Item/Item.base",
+                "viewName": "Tabela"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-table",
+              "title": "Item"
             }
           }
         ]
@@ -37,7 +36,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -112,7 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Documents/SL001_Stormlight_Handbook_digital.pdf",
+            "file": "Item/Item.base",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +132,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Documents/SL001_Stormlight_Handbook_digital.pdf",
+            "file": "Item/Item.base",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -145,7 +146,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Documents/SL001_Stormlight_Handbook_digital.pdf",
+            "file": "Item/Item.base",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -153,9 +154,19 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "a4f9a38d845c0e6b",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,23 +176,32 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d52966f3a09625d7",
+  "active": "df0f15ca87c70fe9",
   "lastOpenFiles": [
-    "Documents/SL001_Stormlight_Handbook_digital.pdf",
-    "README.md",
-    "Documents/Ishiva.pdf",
-    "Documents/Cosmere_RPG_SL_Character_Sheet.pdf",
-    "Paths/Elsecaller.md",
-    "Documents/Documents.md",
-    "Personagens/Personagens.base",
+    "Documents/STC_Welcome_to_Roshar_digital.pdf",
+    "Paths/Paths.md",
     "Paths/Artifabrian.md",
     "Personagens/Ishiva.md",
-    "Excalidraw/Drawing 2026-02-15 13.29.43.excalidraw.md",
-    "RPG - Stonewalkers",
+    "Documents/Ishiva.pdf",
+    "Documents/SL001_Stormlight_Handbook_digital.pdf",
+    "Paths/Erudition.md",
     "Documents/SL010_The_First_Step_Solo_Edition_digital.pdf",
-    "Documents/STC_Welcome_to_Roshar_digital.pdf"
+    "Paths/Elsecaller.md",
+    "Personagens/Personagens.base",
+    "README.md",
+    "Documents/Documents.md",
+    "Surges/Transformation.md",
+    "Item/Minha Arma.md",
+    "Excalidraw/Drawing 2026-03-29 14.17.26.excalidraw.md",
+    "Paths/First Ideal.md",
+    "Paths/Prized Acquisition.md",
+    "Excalidraw/Drawing 2026-02-15 13.29.43.excalidraw.md",
+    "Documents/Cosmere_RPG_SL_Character_Sheet.pdf",
+    "RPG - Stonewalkers"
   ]
 }
